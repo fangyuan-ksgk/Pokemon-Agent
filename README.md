@@ -1,2 +1,1 @@
-# Pokemon-Agent
-Build a virtual agent to play pokemon
+# VLM agents to play Pokemon Red with self-evolving heuristics
